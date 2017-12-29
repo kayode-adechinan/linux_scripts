@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# add any command you want after this command
+
+# make it executable : chmod +x filename
+
+# move it to /bin, or /usr/bin, or /usr/local/bin   : sudo mv filename /bin
+
+
+
+
+synclient TapButton1=1 TapButton2=3 TapButton3=2
